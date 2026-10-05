@@ -16,7 +16,7 @@ um usuário pode ter multiplas funções dentro do sistema.
 
 ##### Regras Globais
 sempre ultilize PDO para conexões e queries do MySQL para evitar SQL injections.
-Mantenha o codigo limpo e comente apenas çogicas complexas
+Mantenha o codigo limpo e comente apenas lógicas complexas
 Não faça um sistema monolitico, sempre modularize o sistema para facilitar os futuros upgrades.
 Estilize as telas do bootstrap 5 CSS de forma responsiva e pensem sempre em Mobilefist
 separe os arquivos de forma lógica: um arquivo para conexão da base (bd.php), scripts de backend isolados e views em HTML/PHP
